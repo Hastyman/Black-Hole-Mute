@@ -1,5 +1,5 @@
 PCB is available at OSHPark.com as a shared project.
-https://oshpark.com/shared_projects/TIuEPTU2
+https://oshpark.com/shared_projects/kCnes2Om
 
 
 ![Relay Mute BOM](https://github.com/Hastyman/Black-Hole-Mute/assets/16782548/20430a4c-fa4e-4d61-a87d-94ef63ab752f)
